@@ -1,4 +1,4 @@
-## Hello! I'm Gabriela Souza Oliveira
+## Hello! I'm Gabriela Oliveira
 
 <div align="center">
   <a href="https://github.com/yesgabio">
