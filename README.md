@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/yesgabio">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yesgabio&show_icons=true&theme=tokyonight&include_all_commits&count_private"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yesgabio&layout=compact&langs_count=8&theme=tokyonight&include_all_commits"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/5top-langs/?username=yesgabio&layout=compact&langs_count=8&theme=tokyonight&include_all_commits"/>
 </div>
   
 <div style="display: inline_block"><br>
